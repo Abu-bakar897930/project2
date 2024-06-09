@@ -1,0 +1,59 @@
+body{
+    font-family: "Plus Jakarta" ,"Sans";
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #FAFAFA;
+}
+nav{
+    width: 100%;
+    height:auto;
+    background-color:#ffffff;
+    ;
+}
+li{
+    font-size: 16px;
+    font-weight: 400;
+}
+hr{
+    height: 5px;
+    /* background-color: blue; */
+    color: black;
+}
+.s3{
+    background-color: #FAFAFA;
+}
+.s3h1 ,.s4h1{
+    font-size: 25px;
+}
+.pr{
+    font-weight: bold;
+}
+.span{
+    font-size: 10px;
+}
+.p{
+    font-size: 13px;
+}
+.car{
+    width: 32%;
+    height: auto;
+    background-color:#FFFFFF;
+    padding: 30px;
+    border-radius: 30px;
+}
+.car>p{
+    font-size: 15px;
+    padding: 20px 0;
+}
+
+.car>h3{
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: -20px;
+}
+.car>.p2{
+    font-size: 12px;
+    top: 30;
+    opacity: .7;
+}
